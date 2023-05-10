@@ -1,0 +1,44 @@
+.nav {
+    padding: 1%;
+}
+
+#a1, #a2, #a3, #a4{
+    text-decoration: none;
+}
+
+.jumbotron {
+    display: grid;
+    place-items: center;
+}
+
+.header {
+    padding-bottom: 1rem;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(115, 37, 74);
+}
+
+.p {
+    font-size: large;
+}
+
+.card-text {    
+    width: 40px;
+    height: 20px;
+    border-radius: 5px;
+}
+
+.card-title {
+    font-size: medium;
+}
+
+.card-img-top {
+    width: 339.51px;
+    height: 339.51px;
+}
+
+.row3 {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+}
