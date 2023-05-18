@@ -1,4 +1,4 @@
-## Patika.dev -> Başlangıç Seviye Frontend Web Development Patikası Projelerini İçerir.
+# Patika.dev -> Başlangıç Seviye Frontend Web Development Patikası Projelerini İçerir.
 
 - Bootstrap - Ödev 1
 - Google! 1998 Clone
