@@ -20,7 +20,7 @@
 ```	
 
 ### Binary Search Tree 
-		```
+```
 								       7  
 								      / \
 								     5   8
