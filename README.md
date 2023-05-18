@@ -6,3 +6,4 @@
 - Instagram Clone
 - LinkedIn Clone
 - Medium Clone
+- Veri Yapıları ve Algoritmalar
