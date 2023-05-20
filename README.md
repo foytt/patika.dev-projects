@@ -7,3 +7,4 @@
 - LinkedIn Clone
 - Medium Clone
 - Veri Yapıları ve Algoritmalar
+- JavaScript - Ödev 1
