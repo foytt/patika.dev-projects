@@ -8,3 +8,4 @@
 - Medium Clone
 - Veri Yapıları ve Algoritmalar
 - JavaScript - Ödev 1
+- Pratik - CSS Class Bilgisi Ekleme ve Çıkarma
